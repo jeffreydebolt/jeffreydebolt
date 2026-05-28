@@ -11,7 +11,7 @@ CPA by background. Builder by necessity. Most of my software starts as a real ac
 - **FirstLot** — FIFO inventory costing for ecommerce
 - **Gemini** — internal bookkeeping automation for MuseMinded
 - **Mourning Club** — grief, nature, movement, and resources for families after child loss
-- **The Surf Log** — a simple place for surf sessions, boards, places, and notes
+- **The Surf Log** — A log and database of the best long board waves in the world
 
 ## What I’m interested in
 
