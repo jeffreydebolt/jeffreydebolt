@@ -10,6 +10,7 @@ CPA by background. Builder by necessity. Most of my software starts as a real ac
 - **SKUaudit** — SKU-level margin analysis for Amazon sellers
 - **FirstLot** — FIFO inventory costing for ecommerce
 - **Gemini** — internal bookkeeping automation for MuseMinded
+- **Ecom_CFO_Skill** - A fractional CFO operating system for ecome sellers. Built for AI agents and human operators
 - **Mourning Club** — grief, nature, movement, and resources for families after child loss
 - **The Surf Log** — A log and database of the best long board waves in the world
 
