@@ -37,3 +37,4 @@ That idea runs through most of my finance work. The personal projects come from 
 - AtlasCFO: https://atlascfo.ai
 - SKUaudit: https://skuaudit.com
 - FirstLot: https://firstlot.co
+- thesurflog: https://thesurflog.com
