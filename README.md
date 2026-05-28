@@ -35,7 +35,5 @@ That idea runs through most of my finance work. The personal projects come from 
 
 - MuseMinded: https://museminded.com
 - AtlasCFO: https://atlascfo.ai
-- Mourning Club: https://mourningclub.com
-- The Surf Log: https://thesurflog.com
 - SKUaudit: https://skuaudit.com
 - FirstLot: https://firstlot.co
