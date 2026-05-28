@@ -1,16 +1,40 @@
-## Hi there 👋
+# Jeff DeBolt
 
-<!--
-**jeffreydebolt/jeffreydebolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build finance tools for ecommerce operators — and a few small projects that help me pay attention to the parts of life that matter outside the numbers.
 
-Here are some ideas to get you started:
+CPA by background. Builder by necessity. Most of my software starts as a real accounting or CFO problem inside MuseMinded, then turns into a product when the manual version gets too painful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m building
+
+- **AtlasCFO** — ecommerce operating data room and CFO decision layer
+- **SKUaudit** — SKU-level margin analysis for Amazon sellers
+- **FirstLot** — FIFO inventory costing for ecommerce
+- **Gemini** — internal bookkeeping automation for MuseMinded
+- **Mourning Club** — grief, nature, movement, and resources for families after child loss
+- **The Surf Log** — a simple place for surf sessions, boards, places, and notes
+
+## What I’m interested in
+
+- Ecommerce finance systems
+- Contribution margin, ad efficiency, cash flow, and inventory
+- Verified business data and accounting automation
+- AI tools that know where the numbers came from
+- Small, useful software that removes recurring work
+- Humane technology: tools that create clarity, memory, and room to live
+
+## The idea I keep coming back to
+
+Businesses should have a memory.
+
+Not just dashboards. Not just monthly reports. A real operating history: what changed, what mattered, what repeated, what broke, and what the numbers were trying to say before anyone noticed.
+
+That idea runs through most of my finance work. The personal projects come from the same place: keeping better records of what matters, and making small systems that help people stay oriented.
+
+## Elsewhere
+
+- MuseMinded: https://museminded.com
+- AtlasCFO: https://atlascfo.ai
+- Mourning Club: https://mourningclub.com
+- The Surf Log: https://thesurflog.com
+- SKUaudit: https://skuaudit.com
+- FirstLot: https://firstlot.co
